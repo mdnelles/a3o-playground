@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/a3o-playground/static/css/main.2b39f103.css",
-    "main.js": "/a3o-playground/static/js/main.f5822caa.js",
+    "main.js": "/a3o-playground/static/js/main.d797357c.js",
     "index.html": "/a3o-playground/index.html",
     "main.2b39f103.css.map": "/a3o-playground/static/css/main.2b39f103.css.map",
-    "main.f5822caa.js.map": "/a3o-playground/static/js/main.f5822caa.js.map"
+    "main.d797357c.js.map": "/a3o-playground/static/js/main.d797357c.js.map"
   },
   "entrypoints": [
     "static/css/main.2b39f103.css",
-    "static/js/main.f5822caa.js"
+    "static/js/main.d797357c.js"
   ]
 }
