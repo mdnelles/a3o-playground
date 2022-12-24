@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/a3o-playground/static/css/main.2b39f103.css",
+    "main.js": "/a3o-playground/static/js/main.19212132.js",
+    "index.html": "/a3o-playground/index.html",
+    "main.2b39f103.css.map": "/a3o-playground/static/css/main.2b39f103.css.map",
+    "main.19212132.js.map": "/a3o-playground/static/js/main.19212132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b39f103.css",
+    "static/js/main.19212132.js"
+  ]
+}
