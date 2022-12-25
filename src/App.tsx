@@ -25,10 +25,8 @@ function App() {
                theme={session.darkMode !== true ? lightTheme : darkTheme}
             >
                <CssBaseline />
-               <Routes>
-                  <Route path='/' element={<Navigate replace to='/main' />} />
-                  <Route path='/main' element={<Main />} />
-               </Routes>
+
+               <Main />
             </ThemeProvider>
          </Suspense>
       </>
